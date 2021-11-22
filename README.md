@@ -24,9 +24,9 @@ move it to the `InstalledPackage` folder located at:
 
 ## Usage
 
-**TODO:** list the items, if any, inserted to the Catalog by the plugin(s) of
-this package. Some plugins only make suggestions, in which case a description of
-what kind of suggestions are to be expected by the user may help.
+![Screenshot](./screenshot.jpeg "Screenshot")  
+
+Start typing "Laravel" then select version with TAB. Next type the search term...
 
 
 ## Change Log
